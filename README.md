@@ -5,7 +5,8 @@ https://github.com/tariqgitspace/CSE535-Tweet_Crawler
 
 •Full-scale search engine consisted of a front-end website(JavaScript) along with Apache Solr back-end which is used to index Twitter’s unstructured data.
 
-•Search Engine used Latent Dirichlet Allocation sub-topic model to operate on half a million crawled tweets data across 5 language. Model used this tweet data for model training and then clustered tweets based on similarity of topics.
+•https://github.com/tariqgitspace/CSE535-Latent_Dirichlet_Allocation_Subtopic_Modelling (LDA Topic Sub-Modelling)
+Search Engine used Latent Dirichlet Allocation sub-topic model to operate on half a million crawled tweets data across 5 language. Model used this tweet data for model training and then clustered tweets based on similarity of topics.
 
 •Wiki and pixabay APIs are used for generating static Summaries and for graphical images respectively for user-queries.
 
